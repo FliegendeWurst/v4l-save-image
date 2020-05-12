@@ -1,0 +1,12 @@
+[package]
+name = "v4l-save-image"
+version = "0.1.0"
+authors = ["FliegendeWurst <2012gdwu@web.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+v4l = "0.4.0"
+image = "0.23.4"
+chrono = "0.4.11"
